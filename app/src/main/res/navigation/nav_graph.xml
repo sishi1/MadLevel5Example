@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/addReminderFragment"
-        android:name="com.example.madlevel4example.AddReminderFragment"
+        android:name="com.example.madlevel4example.ui.AddReminderFragment"
         android:label="fragment_add_reminder"
         tools:layout="@layout/fragment_add_reminder" />
 </navigation>

@@ -46,7 +46,6 @@ class RemindersFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         initViews()
-        observeAddReminderResult()
     }
 
     private fun initViews() {

@@ -1,4 +1,4 @@
-package com.example.madlevel4example
+package com.example.madlevel4example.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

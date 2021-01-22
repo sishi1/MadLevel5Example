@@ -7,7 +7,7 @@ import com.example.madlevel4example.ReminderRoomDatabase
 import com.example.madlevel4example.dao.ReminderDao
 import com.example.madlevel4example.model.Reminder
 
-public class ReminderRepository(context: Context) {
+class ReminderRepository(context: Context) {
 
     private var reminderDao: ReminderDao
 
